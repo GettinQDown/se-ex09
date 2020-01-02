@@ -7,5 +7,9 @@ before_install:
   - export PATH=$GRADLE_HOME/bin:$PATH
   - gradle -v
 
+before_script:
+  - pws
+  - ls
+
 script:
   - gradle build
