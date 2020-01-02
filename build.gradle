@@ -24,7 +24,7 @@ jar {
 }
 
 checkstyle {
-	toolVersion "7.2"
+	toolVersion "8.27"
     configFile file("${project.rootDir}/checkstyle.xml")
     configProperties.checkstyleSuppressionsPath = file("${project.rootDir}/checkstyle-suppressions.xml").absolutePath
 }
