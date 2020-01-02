@@ -8,4 +8,4 @@ before_install:
   - gradle -v
 
 script:
-  - ./gradlew build
+  - gradle build
