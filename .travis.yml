@@ -8,7 +8,7 @@ before_install:
   - gradle -v
 
 before_script:
-  - pws
+  - pwd
   - ls
 
 script:
