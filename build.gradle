@@ -26,7 +26,6 @@ jar {
 checkstyle {
 	toolVersion "8.27"
     configFile file("${project.rootDir}/checkstyle.xml")
-    configProperties.checkstyleSuppressionsPath = file("${project.rootDir}/checkstyle-suppressions.xml")
 }
 
 // Define the main class for the application
