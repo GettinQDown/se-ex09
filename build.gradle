@@ -26,6 +26,7 @@ jar {
 checkstyle {
 	toolVersion "8.27"
     configFile file("${project.rootDir}/checkstyle.xml")
+    configDir file("${project.rootDir}/")
 }
 
 // Define the main class for the application
