@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-02T12:37:12" hostname="DESKTOP-D1HR526" time="0.012">
+<testsuite name="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-02T14:05:20" hostname="DESKTOP-D1HR526" time="0.01">
   <properties/>
-  <testcase name="test" classname="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" time="0.012"/>
+  <testcase name="test" classname="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" time="0.01"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
